@@ -30,4 +30,6 @@ Set of javascript challenges with different dificulty levels extracted from <a h
 - <a href="https://github.com/GabrielCrackPro/js-challenges/blob/main/sum50.js">Sum 50</a>
 - <a href="https://github.com/GabrielCrackPro/js-challenges/blob/main/time.js">Time</a>
 - <a href="https://github.com/GabrielCrackPro/js-challenges/blob/main/toUpperCase.js">To Upper Case</a>
+- <a href="https://github.com/GabrielCrackPro/js-challenges/blob/main/wordsToSentence.js">Words To Sentence</a>
+
 
